@@ -1,10 +1,6 @@
 # Bakery-R-D-Handbook
 Professional R&amp;D Handbook for Cakes, Pastry &amp; Desserts
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <title>Bakery Science Encyclopedia</title>
 <style>
 :root{--cream:#FAF7EF;--paper:#fff;--ink:#29201A;--soft:#6A5645;--line:#E8DECC;--gold:#9C7339;--red:#A85447;--redbg:#F5E4DF;--blue:#5A7889;--bluebg:#E2EBEF;--amber:#BE8C36;--amberbg:#F7ECCB;--green:#5A8763;--greenbg:#E5EFE5}
